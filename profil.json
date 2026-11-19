@@ -1,0 +1,13 @@
+"jmeno": "Ondrej",
+"vek": 17,
+"je_plnolety": false,
+"poznamka": null,
+"adresa": {
+  "zeme": "ceska_republika",
+  "mesto": "praha"
+},
+"konicky": [
+  "lezeni",
+  "jizda_na_kole",
+  "hrani_na_pocitaci"
+]
