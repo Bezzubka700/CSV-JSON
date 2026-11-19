@@ -1,10 +1,11 @@
 "jmeno": "Ondrej",
 "vek": 17,
 "je_plnolety": false,
-"poznamka": null,
+"poznamka": "Rád sportuji",
 "adresa": {
   "zeme": "ceska_republika",
-  "mesto": "praha"
+  "mesto": "praha",
+  "cast": "pocernice"
 },
 "konicky": [
   "lezeni",
